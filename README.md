@@ -16,14 +16,18 @@ A coding tutorial created to review and practice basic JavaScript by creating a 
 ## Uses
 My first React Native project. Installing it was a bit of a challenge but I found a few tutorials to guide me along.
 
-## How I veered from the original project
-- 
+## What I did with this project
+- used typescript instead of javascript
+- used onChangeText attribute to display a welcome message
+- figured out how to adjust th eimage width vs height ratios and created viewport and ratio constants to make it work
+- found my own color scheme
+- Aligned components beyond what the tutorial's guidance
 
 ## History
 After completing a Software Engineering certification program and during my job search, I needed to continue to pracitce my skill set in order to maintain it and learn more. I wanted to create this project to gain some experience with the React Native.
 
 ## Screenshot 1
-![Desktop stipet of HTML file](assests/images/JSGame1.png)
+![Desktop stipet of HTML file](images/RNImage1.png)
 
 ## Screenshot 2
-![Desktop stipet of HTML file](assests/images/JSGame2.png)
+![Desktop stipet of HTML file](images/RNImage2.png)
