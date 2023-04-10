@@ -5,9 +5,12 @@ run "npx react-native run-ios" in your project directory to generate a React Nat
 A coding tutorial created to review and practice basic JavaScript by creating a question and answer game. Completed through Mammoth Interactive at [link to Mammoth Interactive Homepage](https://training.mammothinteractive.com/courses).
 
 ## Tech Used
-- JavaScript
-- Bootsrap Native
+- Java
 - TypeScript
+- Ruby
+- Objective-C
+- Obj-C++
+- JavaScript
 
 ## Dependencies
 - React
